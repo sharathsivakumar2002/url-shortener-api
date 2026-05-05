@@ -56,26 +56,6 @@ Body:
 }
 ```
 
----
-
-### 🔹 Redirect
-
-GET /:code
-
----
-
-### 🔹 Analytics
-
-GET /analytics/:code
-
----
-
-## 🌐 Live Demo
-
-(Add your Render link here)
-
----
-
 ## ⚠️ Limitations
 
 * Uses file storage (not scalable)
